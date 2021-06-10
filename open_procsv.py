@@ -5,3 +5,4 @@ metrics = pd.read_csv('output/avg_patient_metrics.csv')
 
 for i in metrics:
     print(i)
+    
